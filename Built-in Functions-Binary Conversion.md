@@ -10,8 +10,12 @@ To write a Python program to convert the number **16** into its **binary represe
 
 ## 🧾 Program
 
-Add Code Here
+a=16 
+print(bin(a)
 
 ## Output
+![image](https://github.com/user-attachments/assets/eb3bdc9d-d59d-411d-a37e-853f8a219cf6)
 
 ## Result
+Thus ,the program is executed successfully.
+
